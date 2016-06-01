@@ -2,7 +2,6 @@
 id: project
 name: The Client
 heading: The Client
-subheading: for the raiden network
 image: "http://placehold.it/300x300"
 ---
 

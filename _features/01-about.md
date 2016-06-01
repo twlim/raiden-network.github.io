@@ -1,8 +1,6 @@
 ---
 id: info
 name:Info
-heading: A payment channel implementation
-subheading: for Ethereum
 ---
 
 A payment-channel implementation for the Ethereum network.
