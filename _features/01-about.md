@@ -1,7 +1,7 @@
 ---
 id: info
 name:Info
-heading: A payment channel implementation 
+heading: A payment channel implementation
 subheading: for Ethereum
 ---
 
@@ -15,7 +15,7 @@ A payment-channel implementation for the Ethereum network.
 Raiden is a technology that leverages off-chain state networks to extend Ethereum with [some nice] properties for asset transfers:
 
 
-* **Scalable**: it scales linearly with the number of participants. (1,000,000+ transfers per second is easily doable)
+* **Scalable**: it scales linearly with the number of participants (1,000,000+ transfers per second)
 * **Fast**: Transfers are confirmed and final within the fraction of a second
 * **Confidential**: Single transfers don’t show up in the global shared ledger
 * **Interoperable**: Works with any token that follows Ethereum's standardized fungible API
@@ -26,9 +26,10 @@ Raiden is a technology that leverages off-chain state networks to extend Ethereu
 
 
 
-######All this is possible because participants are exchanging payment-promises off-chain, which are backed by locked security deposits on the blockchain. If there is a dispute, a smart contract pays out the locked funds according to the latest off-chain payment.
+**All this is possible because participants are exchanging payment-promises off-chain, which are backed by locked security deposits on the blockchain. If there is a dispute, a smart contract pays out the locked funds according to the latest off-chain payment.**
 
-This keeps Ethereum's transaction volume low and shifts transactions to a network that doesn't require a replicated database and mining [/consensus] securities.
+This keeps Ethereum's transaction volume low and shifts transactions to a network that doesn't require a replicated database and consensus-securities. 
+
 The Raiden technology will enable the Ethereum blockchain to become a payment solution that scales very well and therefore allowing  real world transaction volume and micropayments:
 
 * *Imagine* a decentralized youtube where one pays the creators of a video for every second watched.
@@ -44,4 +45,3 @@ Raiden is influenced by the proposed [Lightning Network](https://lightning.netwo
 * can be implemented on the current Ethereum protocol
 * interoperable with any standardized token on the Ethereum blockchain
 * **will be available in 2016**
-
