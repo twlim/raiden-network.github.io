@@ -4,7 +4,6 @@
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-@import 'fontface';
 @include fontFace('DINLight','/assets/fonts/din_light/DINLight');
 $font-family-custom:      'DINLight';
 $font-family-base:        $font-family-custom !default;
