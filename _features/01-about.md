@@ -5,12 +5,7 @@ name:Info
 
 A payment-channel implementation for the Ethereum network.
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brainbot-com/raiden?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-
-
-
-Raiden is a technology that leverages off-chain state networks to extend Ethereum with [some nice] properties for asset transfers:
+Raiden is a technology that leverages off-chain state networks to extend Ethereum with some nice properties for asset transfers:
 
 
 * **Scalable**: it scales linearly with the number of participants (1,000,000+ transfers per second possible)
@@ -34,7 +29,14 @@ Areas of application are:
 * Micropayments for *content distribution* (e.g. a decentralized youtube where one pays the creators of a video for every second watched.)
 * Decentralized *M2M* markets especially in *IoT* where tiny chunks of bandwidth, storage, cpu time, energy, sensor data, etc. can be traded. 
 
+Further reads:
+
+*[Robert McCone's blogpost about a lightning network on Ethereuem](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
+*[Jehan Tremback's blogpost about payment channels](http://altheamesh.com/blog/universal-payment-channels)
+*[ryepdx's StackExchange answer](http://ethereum.stackexchange.com/a/1648)
 
 
-The technology is currently under development. See our github repository.
 
+The technology is currently under development. See our [GitHub repository](https://github.com/raiden-network/raiden).
+
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)](https://gitter.im/raiden-network/raiden)
