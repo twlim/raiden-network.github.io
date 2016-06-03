@@ -26,8 +26,9 @@ Raiden uses a network of p2p payment channels and deposits in Ethereum to preser
 Raiden is implemented as an extension to Ethereum which can easily be integrated in DApps. 
 
 Areas of application are:
-* Micropayments for *content distribution* (e.g. a decentralized youtube where one pays the creators of a video for every second watched.)
-* Decentralized *M2M* markets especially in *IoT* where tiny chunks of bandwidth, storage, cpu time, energy, sensor data, etc. can be traded. 
+
+* Micropayments for *content distribution* (e.g. a decentralized youtube where one pays the creators of a video for every second watched)
+* Decentralized *M2M* markets especially in *IoT* where tiny chunks of bandwidth, storage, cpu time, energy, sensor data, etc. can be traded.
 
 Further reads:
 
