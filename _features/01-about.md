@@ -31,9 +31,9 @@ Areas of application are:
 
 Further reads:
 
-*[Robert McCone's blogpost about a lightning network on Ethereuem](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
-*[Jehan Tremback's blogpost about payment channels](http://altheamesh.com/blog/universal-payment-channels)
-*[ryepdx's StackExchange answer](http://ethereum.stackexchange.com/a/1648)
+* [Robert McCone's blogpost about a lightning network on Ethereuem](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
+* [Jehan Tremback's blogpost about payment channels](http://altheamesh.com/blog/universal-payment-channels)
+* [ryepdx's StackExchange answer](http://ethereum.stackexchange.com/a/1648)
 
 
 
