@@ -12,7 +12,7 @@ Raiden is a technology that leverages off-chain state networks to extend Ethereu
 * **Fast**: Transfers are confirmed and final within the fraction of a second
 * **Confidential**: Single transfers don’t show up in the global shared ledger
 * **Interoperable**: Works with any token that follows Ethereum's standardized token API
-* **Low Fees**: Transaction fees can be 5-7 orders of magnitude lower than on the blockchain
+* **Low Fees**: Transaction fees can be 7 orders of magnitude lower than on the blockchain
 * **Micro-payments**: Low transaction fees allow to efficiently transfer tiny values
 
 ------
@@ -23,19 +23,25 @@ The basic idea is to switch from a model where all transactions hit the shared l
 
 Raiden uses a network of p2p payment channels and deposits in Ethereum to preserve the guarantees expected from a blockchain system.
 
-Raiden is implemented as an extension to Ethereum which can easily be integrated in DApps. 
+Raiden is implemented as an extension to Ethereum. A Raiden nodes runs alongside an Ethereum node and communicates with other Raiden nodes to facilitate transfers and with the Ethereum blockchain to manage deposits. It offers a simple API which makes it easy use Raiden in DApps. 
 
 Areas of application are:
 
-* Micropayments for *content distribution* (e.g. a decentralized youtube where one pays the creators of a video for every second watched)
-* Decentralized *M2M* markets especially in *IoT* where tiny chunks of bandwidth, storage, cpu time, energy, sensor data, etc. can be traded.
+* Micropayments for *content distribution*: Alternative to Paywalls, Ads and  Subscrptions. (Figure a decentralized youtube where the creators of a video are payed for every second watched)
+* Decentralized *M2M* markets: especially in *IoT* where tiny chunks of bandwidth, storage, cpu time, energy, sensor data, etc. can be traded.
+* Frictionless *Token Systems*: Game Tokens, Reward Tokens, Private Currencies 
+* API Access: Accessing and monetizing APIs on a per use basis is at the core of the upcoming Machine-to-Machine economy
+* Fast Decentralized Exchanges
+
+Raiden is complementary to Ethereum:
+
+Vitalik Buterin: "State channels are an important technology that has the potential to greatly improve the scalability and privacy of many categories of blockchain applications; in conjunction with sharding and other privacy-preserving cryptographic technologies, they are an important ingredient in helping decentralized systems to achieve the properties that mainstream individual and institutional users expect and deserve." 
+
 
 Further reads:
 
-* [Robert McCone's blogpost about a lightning network on Ethereuem](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
-* [Jehan Tremback's blogpost about payment channels](http://altheamesh.com/blog/universal-payment-channels)
-* [ryepdx's StackExchange answer](http://ethereum.stackexchange.com/a/1648)
-
+* [Coindesk feature on Raiden: "Will Ethereum Beat Bitcoin to Mainstream Microtransactions?"](http://www.coindesk.com/ethereum-bitcoin-mainstream-microtransactions/)
+* [Robert McCone's blogpost about a lightning network on Ethereum](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
 
 
 The technology is currently under development. See our [GitHub repository](https://github.com/raiden-network/raiden).
