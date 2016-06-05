@@ -2,7 +2,7 @@
 id: info
 name:Info
 ---
-## Payment-Channel Network for Ethereum
+### **Payment-Channel Network for Ethereum**
 
 Raiden is a technology that leverages off-chain state networks to extend Ethereum with some nice properties for asset transfers:
 
