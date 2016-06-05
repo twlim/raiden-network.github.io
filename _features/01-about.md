@@ -15,9 +15,7 @@ Raiden is a technology that leverages off-chain state networks to extend Ethereu
 * **Low Fees**: Transaction fees can be 7 orders of magnitude lower than on the blockchain
 * **Micro-payments**: Low transaction fees allow to efficiently transfer tiny values
 
-------
-
-The technology enabling this is similar to the proposed Bitcoin [Lightning Network](https://lightning.network/) Network. 
+The technology enabling this is similar to the proposed Bitcoin [Lightning Network](https://lightning.network/). 
 
 The basic idea is to switch from a model where all transactions hit the shared ledger on the blockchain (which is the bottleneck) to a model where users can privately exchange messages which sign the transfer of value. 
 
@@ -41,9 +39,9 @@ Vitalik Buterin: "State channels are an important technology that has the potent
 Further reads:
 
 * [Coindesk feature on Raiden: "Will Ethereum Beat Bitcoin to Mainstream Microtransactions?"](http://www.coindesk.com/ethereum-bitcoin-mainstream-microtransactions/)
-* [Robert McCone's blogpost about a lightning network on Ethereum](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
+* [Robert McCone's blogpost about a lightning style network on Ethereum](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
 
 
-The technology is currently under development. See our [GitHub repository](https://github.com/raiden-network/raiden).
+The technology is currently under development. An alpha version is to be released in Q3/2016. See our [GitHub repository](https://github.com/raiden-network/raiden).
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)](https://gitter.im/raiden-network/raiden)
