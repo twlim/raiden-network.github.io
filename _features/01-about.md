@@ -1,6 +1,6 @@
 ---
 id: info
-name:Info
+name: Info
 ---
 ### **Payment-Channel Network for Ethereum**
 
