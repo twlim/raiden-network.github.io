@@ -25,7 +25,7 @@ Raiden is implemented as an extension to Ethereum. A Raiden nodes runs alongside
 
 ### **Applications**
 
-* Micropayments for *content distribution*: Alternative to Paywalls, Ads and  Subscrptions. (Figure a decentralized youtube where the creators of a video are payed for every second watched)
+* Micropayments for *content distribution*: Alternative to Paywalls, Ads and  Subscrptions. (Figure a decentralized youtube where the creators of a video are paid for every second watched)
 * Decentralized *M2M* markets: especially in *IoT* where tiny chunks of bandwidth, storage, cpu time, energy, sensor data, etc. can be traded.
 * Frictionless *Token Systems*: Game Tokens, Reward Tokens, Private Currencies 
 * API Access: Accessing and monetizing APIs on a per use basis is at the core of the upcoming Machine-to-Machine economy
