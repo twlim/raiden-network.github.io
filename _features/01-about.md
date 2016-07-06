@@ -21,11 +21,11 @@ The basic idea is to switch from a model where all transactions hit the shared l
 
 Raiden uses a network of p2p payment channels and deposits in Ethereum to preserve the guarantees expected from a blockchain system.
 
-Raiden is implemented as an extension to Ethereum. A Raiden nodes runs alongside an Ethereum node and communicates with other Raiden nodes to facilitate transfers and with the Ethereum blockchain to manage deposits. It offers a simple API which makes it easy use Raiden in DApps. 
+Raiden is implemented as an extension to Ethereum. A Raiden node runs alongside an Ethereum node and communicates with other Raiden nodes to facilitate transfers and with the Ethereum blockchain to manage deposits. It offers a simple API which makes it easy to use Raiden in DApps. 
 
 ### **Applications**
 
-* Micropayments for *content distribution*: Alternative to Paywalls, Ads and  Subscrptions. (Figure a decentralized youtube where the creators of a video are paid for every second watched)
+* Micropayments for *content distribution*: Alternative to Paywalls, Ads and  Subscriptions. (Figure a decentralized youtube where the creators of a video are paid for every second watched)
 * Decentralized *M2M* markets: especially in *IoT* where tiny chunks of bandwidth, storage, cpu time, energy, sensor data, etc. can be traded.
 * Frictionless *Token Systems*: Game Tokens, Reward Tokens, Private Currencies 
 * API Access: Accessing and monetizing APIs on a per use basis is at the core of the upcoming Machine-to-Machine economy
