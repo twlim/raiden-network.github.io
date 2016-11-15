@@ -5,8 +5,13 @@
 //## Font, line-height, and color for body text, headings, and more.
 
 @include fontFace('DINLight','/assets/fonts/din_light/DINLight');
-$font-family-custom:      'DINLight';
+$font-family-din:      'DINLight';
+
+// @include fontFace('Roboto','/assets/fonts/roboto/roboto/roboto.scss');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i');
+$font-family-custom:      Roboto, sans-serif;
 $font-family-base:        $font-family-custom !default;
+$font-weigth:             300;
 
 // $body-bg:                !default;
 

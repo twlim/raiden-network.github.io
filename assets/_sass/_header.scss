@@ -2,36 +2,39 @@ header {
   display: block;
   width: 100%;
   text-align: center;
-  background: url('/assets/orange_blur_network_72op.jpg') no-repeat center center scroll;
+  background: url('/assets/orange_blur_network.svg') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
   .headline { padding: 120px 0;
-	@include opacity(0.7);
-	@include transition(opacity 0.8s ease-in-out, text-shadow 1s ease-in-out);
+	// @include opacity(0.7);
+	// @include transition(opacity 0.8s ease-in-out, text-shadow 1s ease-in-out);
 
-  &:hover {
-	  @include opacity(1.0);
-	  text-shadow: 6px 4px 8px #555;
-              }
+  // &:hover {
+	//   @include opacity(1.0);
+	//   text-shadow: 6px 4px 8px #555;
+  //             }
   }
 
   h1 {
     font-size: 100px;
+    font-family: $font-family-din;
     // font-size: 130px;
     // background: #fff;
-    color: #fff;
-    //background: rgba(255,255,255,0.9);
-    background: transparent;
+    color: #eee;
+    background: rgba(51,51,51,0.9);
+    // background: transparent;
   }
 
   h2 {
     font-size: 55px;
+    font-family: $font-family-din;
     // background: #fff;
     // background: rgba(255,255,255,0.9);
-    color: #ddd;
-    background: transparent;
+    color: #ccc;
+    background: rgba(51,51,51,0.9);
+    // background: transparent;
   }
 
   @media(max-width:1200px) {
@@ -56,16 +59,16 @@ header {
   }
 }
 
-@mixin transition($args...) {
-	  -webkit-transition: $args;
-	    -moz-transition: $args;
-	      -ms-transition: $args;
-	        -o-transition: $args;
-		  transition: $args;
-	  }
-
-@mixin opacity($opacity) {
-  opacity: $opacity;
-  $opacity-ie: $opacity * 100;
-  filter: alpha(opacity=$opacity-ie); //IE8
-}
+// @mixin transition($args...) {
+// 	  -webkit-transition: $args;
+// 	    -moz-transition: $args;
+// 	      -ms-transition: $args;
+// 	        -o-transition: $args;
+// 		  transition: $args;
+// 	  }
+//
+// @mixin opacity($opacity) {
+//   opacity: $opacity;
+//   $opacity-ie: $opacity * 100;
+//   filter: alpha(opacity=$opacity-ie); //IE8
+// }
