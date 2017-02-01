@@ -36,10 +36,11 @@ Raiden is implemented as an extension to Ethereum. A Raiden node runs alongside 
 Vitalik Buterin: "State channels are an important technology that has the potential to greatly improve the scalability and privacy of many categories of blockchain applications; in conjunction with sharding and other privacy-preserving cryptographic technologies, they are an important ingredient in helping decentralized systems to achieve the properties that mainstream individual and institutional users expect and deserve." 
 
 
-### **Further reading**
+### **Links**
 
 * [Coindesk feature on Raiden: "Will Ethereum Beat Bitcoin to Mainstream Microtransactions?"](http://www.coindesk.com/ethereum-bitcoin-mainstream-microtransactions/)
 * [Robert McCone's blogpost about a lightning style network on Ethereum](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
+* [Oktahedron Podcast with Augusto from the core team, explaining the Raiden Network](https://oktahedron.diskordia.org/?podcast=oh007-raiden)
 
 ### **Development**
 
