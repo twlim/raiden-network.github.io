@@ -41,9 +41,12 @@ Vitalik Buterin: "State channels are an important technology that has the potent
 * [Coindesk feature on Raiden: "Will Ethereum Beat Bitcoin to Mainstream Microtransactions?"](http://www.coindesk.com/ethereum-bitcoin-mainstream-microtransactions/)
 * [Robert McCone's blogpost about a lightning style network on Ethereum](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/)
 * [Oktahedron Podcast with Augusto from the core team, explaining the Raiden Network](https://oktahedron.diskordia.org/?podcast=oh007-raiden)
+* [Raiden Network IoT Demo - Enabling High Speed Asset Transfers](https://www.youtube.com/watch?v=t6-rf68taTs)
+
 
 ### **Development**
 
-The technology is currently under development. An alpha version is to be released in Q3/2016. See our [GitHub repository](https://github.com/raiden-network/raiden).
+The Raiden Network is currently under development. Release of an MVP is planned for the end of March 2017. See our [GitHub repository](https://github.com/raiden-network/raiden) and read our latest [blog post on development progress](https://medium.com/@brainbot/update-from-the-raiden-team-on-development-process-announcement-of-raidex-6c94b4edcf73#.2iov6x6s5) for the latest updates.
+
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)](https://gitter.im/raiden-network/raiden)
