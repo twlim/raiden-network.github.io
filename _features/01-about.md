@@ -46,7 +46,7 @@ Vitalik Buterin: "State channels are an important technology that has the potent
 
 ### **Development**
 
-The Raiden Network is currently under development. Release of an MVP is planned for the end of March 2017. See our [GitHub repository](https://github.com/raiden-network/raiden) and read our latest [blog post on development progress](https://medium.com/@brainbot/update-from-the-raiden-team-on-development-process-announcement-of-raidex-6c94b4edcf73#.2iov6x6s5) for the latest updates.
+The Raiden Network is currently under development. See our [GitHub repository](https://github.com/raiden-network/raiden) and read our latest [blog post on development progress](https://medium.com/@brainbot/update-from-the-raiden-team-on-development-process-announcement-of-raidex-6c94b4edcf73#.2iov6x6s5) for the latest updates.
 
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000?style=flat-square)](https://gitter.im/raiden-network/raiden)
